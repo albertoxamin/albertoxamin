@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning Autonomous Systems in a MSc at KTH and Aalto University.
+🌱 I’m currently studying Autonomous Systems in a MSc at KTH :sweden: and Aalto University :finland: with the EIT Digital :eu:.
 
 
 Here you can take a look on the languages that I used in the past year.
