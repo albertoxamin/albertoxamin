@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 🌱 I’m currently studying Autonomous Systems in a MSc at KTH :sweden: and Aalto University :finland: with the EIT Digital :eu:.
 
 
-Here you can take a look on the languages that I used in the past year.
+Here you can take a look on some of my stats:
 
-![aaaa](https://wakatime.com/share/@99ed6396-cd11-4b90-b234-c7f3b1b0d787/1af6cfb8-5f2a-480d-b9d8-14c5123cd296.svg)
+![AlbertoXamin's github stats](https://github-readme-stats.vercel.app/api?username=albertoxamin&count_private=true)
+<img src="https://wakatime.com/share/@99ed6396-cd11-4b90-b234-c7f3b1b0d787/1af6cfb8-5f2a-480d-b9d8-14c5123cd296.svg" alt="languages over last year" width="45%"/>
