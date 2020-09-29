@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently studying Autonomous Systems in a MSc at KTH :sweden: and Aalto University :finland: with the EIT Digital :eu:.
+🌱 I’m currently studying Artificial Intelligence and Robotics in a MSc at KTH :sweden: and Aalto University :finland: with the EIT Digital :eu:.
 
 
 Here you can take a look on some of my stats:
