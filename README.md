@@ -12,6 +12,9 @@
 <a href="https://instagram.com/alberto.programmer/">
   <img align="left" alt="Alberto Xamin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://www.xamin.it/">
+  <img align="left" alt="Alberto Xamin's Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" />
+</a>
 <br/>
 <br/>
 
