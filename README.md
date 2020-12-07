@@ -19,22 +19,9 @@
 <br/>
 
 
-<!--
-**albertoxamin/albertoxamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 I’m currently studying Artificial Intelligence 🧠 and Robotics 🤖 in a MSc at KTH :sweden: and Aalto University :finland: with the EIT Digital :eu:.
 
+🤫 **Psst...** wanna try my latest game? it is called PewPew! and it is an online version of an old classic <a href="https://bang.xamin.it">PewPew!</a>
 
 Here you can take a look on some of my stats:
 
