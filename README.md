@@ -1,19 +1,20 @@
 ### Hi there 👋
 
 <a href="https://www.linkedin.com/in/albertoxamin/">
-  <img align="left" alt="Alberto Xamin's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+
+  <img align="left" alt="Alberto Xamin's Linkdein" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />
 </a>
 <a href="https://github.com/albertoxamin">
-  <img align="left" alt="Alberto Xamin's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Alberto Xamin's Github" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/GitHub-512.png" />
 </a>
 <a href="https://stackoverflow.com/users/3154909/alberto">
-  <img align="left" alt="Alberto Xamin's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" />
+  <img align="left" alt="Alberto Xamin's StackOverflow" width="22px" src="https://cdn0.iconfinder.com/data/icons/social-rounded/72/stackoverflow-512.png" />
 </a>
 <a href="https://instagram.com/alberto.programmer/">
-  <img align="left" alt="Alberto Xamin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Alberto Xamin's Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" />
 </a>
 <a href="https://www.xamin.it/">
-  <img align="left" alt="Alberto Xamin's Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" />
+  <img align="left" alt="Alberto Xamin's Website" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-media-square-4/1024/square-10-512.png" />
 </a>
 <br/>
 <br/>
