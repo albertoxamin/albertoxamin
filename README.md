@@ -23,8 +23,3 @@
 I’m currently studying Artificial Intelligence 🧠 and Robotics 🤖 in a MSc at KTH :sweden: and Aalto University :finland: with the EIT Digital :eu:.
 
 🤫 **Psst...** wanna try my latest game? it is called PewPew! and it is an online version of an old classic <a href="https://bang.xamin.it">PewPew!</a>
-
-Here you can take a look on some of my stats:
-
-![AlbertoXamin's github stats](https://github-readme-stats.vercel.app/api?username=albertoxamin&show_icons=true&count_private=true)
-<img src="https://wakatime.com/share/@99ed6396-cd11-4b90-b234-c7f3b1b0d787/1af6cfb8-5f2a-480d-b9d8-14c5123cd296.svg" alt="languages over last year" width="60%"/>
