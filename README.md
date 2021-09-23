@@ -20,6 +20,6 @@
 <br/>
 
 
-I’m currently studying Artificial Intelligence 🧠 and Robotics 🤖 in a MSc at KTH :sweden: and Aalto University :finland: with the EIT Digital :eu:.
+I’m currently studying Artificial Intelligence 🧠 and Robotics 🤖 in a joint MSc at KTH :sweden: and Aalto University :finland: with EIT Digital :eu:.
 
 🤫 **Psst...** wanna try my latest game? it is called PewPew! and it is an online version of an old classic <a href="https://bang.xamin.it">PewPew!</a>
