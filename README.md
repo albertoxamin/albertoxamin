@@ -23,3 +23,5 @@
 I’m currently studying Artificial Intelligence 🧠 and Robotics 🤖 in a joint MSc at KTH :sweden: and Aalto University :finland: with EIT Digital :eu:.
 
 🤫 **Psst...** wanna try my latest game? it is called PewPew! and it is an online version of an old classic <a href="https://bang.xamin.it">PewPew!</a>
+
+[![wakatime](https://wakatime.com/badge/user/99ed6396-cd11-4b90-b234-c7f3b1b0d787.svg)](.)
