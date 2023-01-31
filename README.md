@@ -29,6 +29,7 @@ I was studying Artificial Intelligence 🧠 and Robotics 🤖 in a joint MSc at 
 Software Engineer @ Meta (Instagram) - Sep 2022 / Feb 23
 
 <br/>
+<br/>
 
 Software Engineer Intern @ [Datadog](https://datadoghq.com) - Feb 22 / Aug 22
 <img align="left" alt="datadog-logo" width="22px" src="https://www.datadoghq.com/favicon.ico" />
