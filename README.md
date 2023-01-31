@@ -21,8 +21,19 @@
 
 
 I was studying Artificial Intelligence 🧠 and Robotics 🤖 in a joint MSc at KTH :sweden: and Aalto University :finland: with EIT Digital :eu:.
-Now I'm a fulltime Software Engineer at Meta.
 
-🤫 **Psst...** wanna try my latest game? it is called PewPew! and it is an online version of an old classic <a href="https://bang.xamin.it">PewPew!</a>
+**Notable Professional Experience**
+
+
+<img align="left" alt="meta-logo" width="22px" src="https://static.xx.fbcdn.net/rsrc.php/y5/r/m4nf26cLQxS.ico" />
+Software Engineer @ Meta (Instagram) - Sep 2022 / Feb 23
+
+
+Software Engineer Intern @ [Datadog](https://datadoghq.com) - Feb 22 / Aug 22
+<img align="left" alt="datadog-logo" width="22px" src="https://www.datadoghq.com/favicon.ico" />
+
+
+
+🤫 **Psst...** wanna try my latest game? it is called PewPew! and it is an online version of an old classic card game called Bang! You can play online with your friends here 👉 <a href="https://bang.xamin.it">PewPew!</a>
 
 [![wakatime](https://wakatime.com/badge/user/99ed6396-cd11-4b90-b234-c7f3b1b0d787.svg)](.)
