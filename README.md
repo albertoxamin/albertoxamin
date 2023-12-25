@@ -27,6 +27,10 @@
 * <img align="left" alt="meta-logo" width="22px" src="https://static.xx.fbcdn.net/rsrc.php/y5/r/m4nf26cLQxS.ico" /> Software Engineer @ [Meta](https://www.meta.com/) (Instagram) - Sep '22 / Feb '23 🫡 **Laid off**
 * <img align="left" alt="datadog-logo" width="22px" src="https://www.datadoghq.com/favicon.ico" /> Software Engineer Intern @ [Datadog](https://datadoghq.com) - Feb '22 / Aug '22
 
+...
+
+Before that a few years as App and Game Developer 😉
+
 
 🤫 **Psst...** wanna try my latest game? it is called PewPew! and it is an online version of an old classic card game called Bang! You can play online with your friends here 👉 <a href="https://bang.xamin.it">PewPew!</a>
 
