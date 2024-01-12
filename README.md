@@ -29,7 +29,7 @@
 
 ...
 
-Before that a few years as App and Game Developer 😉
+Before that a few years as App 📱 and Game Developer 🎮 😉
 
 
 🤫 **Psst...** wanna try my latest game? it is called PewPew! and it is an online version of an old classic card game called Bang! You can play online with your friends here 👉 <a href="https://bang.xamin.it">PewPew!</a>
