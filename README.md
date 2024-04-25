@@ -19,17 +19,16 @@
 <br/>
 <br/>
 
-**Notable Professional Experience**
+**Professional Experience**
 
 
 
-* <img align="left" alt="meta-logo" width="22px" src="https://www.taktile.com/assets/favicon/favicon.png" /> Software Engineer 2 @ [Taktile](https://www.taktile.com/) - Feb '23 till Now
-* <img align="left" alt="meta-logo" width="22px" src="https://static.xx.fbcdn.net/rsrc.php/y5/r/m4nf26cLQxS.ico" /> Software Engineer @ [Meta](https://www.meta.com/) (Instagram) - Sep '22 / Feb '23 🫡 **Laid off**
-* <img align="left" alt="datadog-logo" width="22px" src="https://www.datadoghq.com/favicon.ico" /> Software Engineer Intern @ [Datadog](https://datadoghq.com) - Feb '22 / Aug '22
+* <img align="left" alt="meta-logo" width="22px" src="https://www.taktile.com/assets/favicon/favicon.png" /> Software Engineer 2 @ [Taktile](https://www.taktile.com/) - Feb 2023 / Present
+* <img align="left" alt="meta-logo" width="22px" src="https://static.xx.fbcdn.net/rsrc.php/y5/r/m4nf26cLQxS.ico" /> Software Engineer @ [Meta](https://www.meta.com/) (Instagram) - Sep 2022 / Feb 2023 🫡 **Laid off**
+* <img align="left" alt="datadog-logo" width="22px" src="https://www.datadoghq.com/favicon.ico" /> Software Engineer Intern @ [Datadog](https://datadoghq.com) - Feb 2022 / Aug 2022
+* <img align="left" alt="aalto-logo" width="22px" src="https://www.aalto.fi/favicon.ico" /> Research Assistant @ [Aalto University](https://www.aalto.fi/en) - Jul 2021 / Dec 2021
+* <img align="left" alt="crispy-bacon-logo" width="22px" src="https://crispybacon.it/wp-content/uploads/2018/10/cropped-ms-icon-310x310-32x32.png" /> App developer (iOS, Windows Phone) @ [Crispy Bacon](https://crispybacon.it/en/) - 2015 / 2018
 
-...
-
-Before that a few years as App 📱 and Game Developer 🎮 😉
 
 
 🤫 **Psst...** wanna try my latest game? it is called PewPew! and it is an online version of an old classic card game called Bang! You can play online with your friends here 👉 <a href="https://bang.xamin.it">PewPew!</a>
