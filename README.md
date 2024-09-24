@@ -33,3 +33,6 @@
 
 🤫 **Psst...** wanna try my latest game? it is called PewPew! and it is an online version of an old classic card game called Bang! You can play online with your friends here 👉 <a href="https://bang.xamin.it">PewPew!</a>
 
+
+![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=AlbertoXamin)
+
